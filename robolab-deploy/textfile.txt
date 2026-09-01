@@ -1,0 +1,249 @@
+[?1049h[22;0;0t[?1h=[H[2J[?12l[?25h[?1000l[?1002l[?1006l[?1005l[c(B[m[?12;25h[?12l[?25h[?1003l[?1006l[?2004l[1;1H[1;17r]112[2;1H[?25l[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:26 02-Sep-24(B[m[2;1H[?12l[?25h(B[m[?12;25h[?12l[?25h[?1003l[?1006l[?2004l[1;1H[1;17r[2;1H[?25l[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:26 02-Sep-24(B[m[2;1H[?12l[?25hStart mission
+first x None
+first y None
+Traceback (most recent call last):
+  File "/usr/share/robolab-startup/zygote.py", line 239, in run_robot_script
+    main.run()
+  File "/home/robot/src/main.py", line 65, in run
+    integration.start_robot(communication, mechanics, planet)
+  File "/home/robot/src/integration.py", line 160, in start_robot
+    self.odometry.calculate_new_position()
+AttributeError: 'Odometry' object has no attribute 'calculate_new_position'
+
+Writing log...
+-----[1;16r[2S[14dyour robot crashed :( time: Mon, 02 Sep 2024 11:26:40[16;1Hinput d to enter the debugger, s to stop or anything else to run again (confirm with ENTER): [1;17r[16;94Hbdd[1;17r(B[m[?1l>[H[2J]112[?12l[?25h[?1000l[?1002l[?1006l[?1005l[?1049l[23;0;0t[detached (from session robolab-startup)]
+Starting deploy at 02.09.2024, 11:25:54
+If you need to change the IP address or your underlying OS, please run
+	./deploy.py -c
+Copying new files...
+Done.
+Executing code by running main.run()...
+This will open a tmux session...
+Detach by pressing CTRL + B and then D
+Done.
+[?1049h[22;0;0t[?1h=[H[2J[?12l[?25h[?1000l[?1002l[?1006l[?1005l[c(B[m[?12;25h[?12l[?25h[?1003l[?1006l[?2004l[1;1H[1;17r]112[2;1H[?25l[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:27 02-Sep-24(B[m[2;1H[?12l[?25h(B[m[?12;25h[?12l[?25h[?1003l[?1006l[?2004l[1;1H[1;17r[2;1H[?25l[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:27 02-Sep-24(B[m[2;1H[?12l[?25hStart mission
+first x None
+first y None
+Traceback (most recent call last):
+  File "/usr/share/robolab-startup/zygote.py", line 239, in run_robot_script
+    main.run()
+  File "/home/robot/src/main.py", line 65, in run
+    integration.start_robot(communication, mechanics, planet)
+  File "/home/robot/src/integration.py", line 160, in start_robot
+    self.odometry.calculate_new_position()
+AttributeError: 'Odometry' object has no attribute 'calculate_new_position'
+
+Writing log...
+-----[1;16r[2S[14dyour robot crashed :( time: Mon, 02 Sep 2024 11:27:26[16;1Hinput d to enter the debugger, s to stop or anything else to run again (confirm with ENTER): [1;17r[16;94H[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:28 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:29 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:30 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:31 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:32 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:33 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:34 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:35 02-Sep-24(B[m[16;94H[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:36 02-Sep-24(B[m[16;94H[?12l[?25h[1;16r[16S[1;17r[1;1HStarting your robot at Mon, 02 Sep 2024 11:36:22[?25l[17;1H[30m[42m[robolab-s0:launcher*                                                                                                                                                         "group-201" 11:36 02-Sep-24(B[m[2;1H[?12l[?25h[1;16r[16S[1;17r[1;1H
+[?25l[17d[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:36 02-Sep-24(B[m[2;1H[?12l[?25h[?25l[32m[1;162H│[39m·······································[32m[2;162H│[39m·······································[32m[3;162H│[39m·······································[32m[4;162H│[39m·······································[32m[5;162H│[39m·······································[32m[6;162H│[39m·······································[32m[7;162H│[39m·······································[32m[8;162H│[39m·······································[32m[9;162H│[39m·······································[32m[10;162H│[39m·······································[32m[11;162H│[39m·······································[32m[12;162H│[39m·······································[32m[13;162H│[39m·······································[32m[14;162H│[39m·······································[32m[15;162H│[39m·······································[32m[16;162H│[39m·····(B[m(size 161x16 from a smaller client)[1;161H[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:36 02-Sep-24(B[m[2;1H[?12l[?25hStart mission
+Total left 2853 Total right 2867 Ticks 26
+alpha 3.7299363057324832 delta x 0.36201327143805584 delta_y 4.383552611928858
+Total left 2853 Total right 2867 Ticks 26
+Total left 2853 Total right 2867 Ticks 26
+alpha -6.512101910828026 delta x 0.22667613034048623 delta_y 8.763924108582184
+Total left 2853 Total right 2867 Ticks 26
+Total left 2853 Total right 2867 Ticks 26
+alpha -8.377070063694267 delta x -0.2916535184289389 delta_y 13.131219124006819
+Total left 2853 Total right 2867 Ticks 26
+Total left 2853 Total right 2867 Ticks 26
+alpha -3.8063694267515915 delta x -0.7695434050460526 delta_y 17.500633358583247
+Total left 2853 Total right 2867 Ticks 26
+Total left 2853 Total right 2867 Ticks 26
+[?25l[1;161H[1K[HStart mission[2;161H[1KTotal left 2853 Total right 2867 Ticks 26[3;161H[1Kalpha 3.7299363057324832 delta x 0.36201327143805584 delta_y 4.383552611928858[4;161H[1KTotal left 2853 Total right 2867 Ticks 26[5;161H[1KTotal left 2853 Total right 2867 Ticks 26[6;161H[1Kalpha -6.512101910828026 delta x 0.22667613034048623 delta_y 8.763924108582184[7;161H[1KTotal left 2853 Total right 2867 Ticks 26[8;161H[1KTotal left 2853 Total right 2867 Ticks 26[9;161H[1Kalpha -8.377070063694267 delta x -0.2916535184289389 delta_y 13.131219124006819[10;161H[1KTotal left 2853 Total right 2867 Ticks 26[11;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -3.8063694267515915 delta x -0.7695434050460526 delta_y 17.500633358583247                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[14;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -3.1337579617834384 delta x -1.0357222892674516 delta_y 21.892488399874885                                                                                [1X
+[1K[?12l[?25h[?25l[1;161H[1K[HTotal left 2853 Total right 2867 Ticks 26[2;161H[1KTotal left 2853 Total right 2867 Ticks 26[3;161H[1Kalpha -8.377070063694267 delta x -0.2916535184289389 delta_y 13.131219124006819[4;161H[1KTotal left 2853 Total right 2867 Ticks 26[5;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -3.8063694267515915 delta x -0.7695434050460526 delta_y 17.500633358583247                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[8;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -3.1337579617834384 delta x -1.0357222892674516 delta_y 21.892488399874885                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[11;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -1.7885350318471327 delta x -1.1858781972972414 delta_y 26.289880487600104                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[14;161H[1KTotal left 2853 Total right 2867 Ticks 26[15;161H[1Kalpha -2.2318471337579613 delta x -1.36358919274629 delta_y 30.686274423548277[16;161H[1K[?12l[?25h[?25l[Halpha -3.8063694267515915 delta x -0.7695434050460526 delta_y 17.500633358583247                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[3;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -3.1337579617834384 delta x -1.0357222892674516 delta_y 21.892488399874885                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[6;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -1.7885350318471327 delta x -1.1858781972972414 delta_y 26.289880487600104                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[9;161H[1KTotal left 2853 Total right 2867 Ticks 26[10;161H[1Kalpha -2.2318471337579613 delta x -1.36358919274629 delta_y 30.686274423548277[11;161H[1KTotal left 2853 Total right 2867 Ticks 26[12;161H[1KTotal left 2853 Total right 2867 Ticks 26
+alpha -2.2471337579617834 delta x -1.5940172776625918 delta_y 35.079734533851585                                                                                [1X
+[1KTotal left 2853 Total right 2867 Ticks 26[15;161H[1KTotal left 2853 Total right 2867 Ticks 26[16;161H[1K[?12l[?25h[?25l[1;161H[1K[HTotal left 2853 Total right 2867 Ticks 26[2;161H[1Kalpha -5.105732484076432 delta x -1.8565464361215278 delta_y 39.46967754885607[3;161H[1KTotal left 2853 Total right 2867 Ticks 26[4;161H[1KTotal left 2853 Total right 2867 Ticks 26[5;161H[1Kalpha -4.723566878980891 delta x -2.250830941988073 delta_y 43.851834961202684[6;161H[1KTotal left 2853 Total right 2867 Ticks 26[7;161H[1KTotal left 2853 Total right 2867 Ticks 26[8;161H[1Kalpha -3.913375796178342 delta x -2.6345264421621897 delta_y 48.23410686242586[9;161H[1KTotal left 2853 Total right 2867 Ticks 26[10;161H[1KTotal left 2853 Total right 2867 Ticks 26[11;161H[1Kalpha -2.889171974522292 delta x -2.901280352187845 delta_y 52.62574835631403[12;161H[1KTotal left 2853 Total right 2867 Ticks 26[13;161H[1KTotal left 2853 Total right 2867 Ticks 26[14;161H[1Kalpha 3.6076433121019145 delta x -2.9148250845598787 delta_y 57.014798975590246[15;161H[1KTotal left 2853 Total right 2867 Ticks 26[16;161H[1K[?12l[?25hRobi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0[?25l[1;161H[1K[Halpha -5.105732484076432 delta x -1.8565464361215278 delta_y 39.46967754885607[2;161H[1KTotal left 2853 Total right 2867 Ticks 26[3;161H[1KTotal left 2853 Total right 2867 Ticks 26[4;161H[1Kalpha -4.723566878980891 delta x -2.250830941988073 delta_y 43.851834961202684[5;161H[1KTotal left 2853 Total right 2867 Ticks 26[6;161H[1KTotal left 2853 Total right 2867 Ticks 26[7;161H[1Kalpha -3.913375796178342 delta x -2.6345264421621897 delta_y 48.23410686242586[8;161H[1KTotal left 2853 Total right 2867 Ticks 26[9;161H[1KTotal left 2853 Total right 2867 Ticks 26[10;161H[1Kalpha -2.889171974522292 delta x -2.901280352187845 delta_y 52.62574835631403[11;161H[1KTotal left 2853 Total right 2867 Ticks 26[12;161H[1KTotal left 2853 Total right 2867 Ticks 26[13;161H[1Kalpha 3.6076433121019145 delta x -2.9148250845598787 delta_y 57.014798975590246[14;161H[1KTotal left 2853 Total right 2867 Ticks 26
+Robi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0                                                                            [1X
+[1K[?12l[?25h[?25l[1;161H[1K[Halpha -3.913375796178342 delta x -2.6345264421621897 delta_y 48.23410686242586[2;161H[1KTotal left 2853 Total right 2867 Ticks 26[3;161H[1KTotal left 2853 Total right 2867 Ticks 26[4;161H[1Kalpha -2.889171974522292 delta x -2.901280352187845 delta_y 52.62574835631403[5;161H[1KTotal left 2853 Total right 2867 Ticks 26[6;161H[1KTotal left 2853 Total right 2867 Ticks 26[7;161H[1Kalpha 3.6076433121019145 delta x -2.9148250845598787 delta_y 57.014798975590246[8;161H[1KTotal left 2853 Total right 2867 Ticks 26
+Robi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0                                                                            [1X
+[1K
+[1K
+[1K###    Robi arrived at (-5, -2)    ###[13;161H[1KRobi came from direction                                        0[14;161H[1K=> Orientation of robot                                         0[15;161H[1KStart scanning[16;161H[1K[?12l[?25hAvailable paths: [-1, 1, 1, -1][?25l[1;161H[1K[HTotal left 2853 Total right 2867 Ticks 26[2;161H[1Kalpha -2.889171974522292 delta x -2.901280352187845 delta_y 52.62574835631403[3;161H[1KTotal left 2853 Total right 2867 Ticks 26[4;161H[1KTotal left 2853 Total right 2867 Ticks 26[5;161H[1Kalpha 3.6076433121019145 delta x -2.9148250845598787 delta_y 57.014798975590246[6;161H[1KTotal left 2853 Total right 2867 Ticks 26
+Robi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0                                                                            [1X
+[1K
+[1K
+[1K###    Robi arrived at (-5, -2)    ###[11;161H[1KRobi came from direction                                        0[12;161H[1K=> Orientation of robot                                         0[13;161H[1KStart scanning[14;161H[1KAvailable paths: [-1, 1, 1, -1][15;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[16;161H[1K[?12l[?25h[?25l[1;161H[1K[HTotal left 2853 Total right 2867 Ticks 26[2;161H[1Kalpha 3.6076433121019145 delta x -2.9148250845598787 delta_y 57.014798975590246[3;161H[1KTotal left 2853 Total right 2867 Ticks 26
+Robi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0                                                                            [1X
+[1K
+[1K
+[1K###    Robi arrived at (-5, -2)    ###[8;161H[1KRobi came from direction                                        0[9;161H[1K=> Orientation of robot                                         0[10;161H[1KStart scanning[11;161H[1KAvailable paths: [-1, 1, 1, -1][12;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[13;161H[1KScanned nodes and unexplored paths: {(-5, -2): [90]}[14;161H[1K
+[1K=> Robi is asking the mothership for permission to drive        90[16;161H[1K[?12l[?25h[?25l[1;161H[1K[HTotal left 2853 Total right 2867 Ticks 26
+Robi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0                                                                            [1X
+[1K
+[1K
+[1K###    Robi arrived at (-5, -2)    ###[6;161H[1KRobi came from direction                                        0[7;161H[1K=> Orientation of robot                                         0[8;161H[1KStart scanning[9;161H[1KAvailable paths: [-1, 1, 1, -1][10;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[11;161H[1KScanned nodes and unexplored paths: {(-5, -2): [90]}[12;161H[1K
+[1K=> Robi is asking the mothership for permission to drive        90[14;161H[1K-------------------------------------------------------------------[15;161H[1Kfinal next orientation according to the compass                 90[16;161H[1K[?12l[?25h[?25l[HRobi starts at Point (-5, -2) on the planet Examinator-X-42b and the direction is: 0                                                                            [1X
+[1K
+[1K
+[1K###    Robi arrived at (-5, -2)    ###[5;161H[1KRobi came from direction                                        0[6;161H[1K=> Orientation of robot                                         0[7;161H[1KStart scanning[8;161H[1KAvailable paths: [-1, 1, 1, -1][9;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[10;161H[1KScanned nodes and unexplored paths: {(-5, -2): [90]}[11;161H[1K
+[1K=> Robi is asking the mothership for permission to drive        90[13;161H[1K-------------------------------------------------------------------[14;161H[1Kfinal next orientation according to the compass                 90[15;161H[1Kfinal next orientation taking robot orientation into account    90[16;161H[1K[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:37 02-Sep-24(B[m[16;1H[?12l[?25hMission cancelled by user[?25l[1;161H[1K
+[1K
+[1K###    Robi arrived at (-5, -2)    ###[4;161H[1KRobi came from direction                                        0[5;161H[1K=> Orientation of robot                                         0[6;161H[1KStart scanning[7;161H[1KAvailable paths: [-1, 1, 1, -1][8;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[9;161H[1KScanned nodes and unexplored paths: {(-5, -2): [90]}[10;161H[1K
+[1K=> Robi is asking the mothership for permission to drive        90[12;161H[1K-------------------------------------------------------------------[13;161H[1Kfinal next orientation according to the compass                 90[14;161H[1Kfinal next orientation taking robot orientation into account    90[15;161H[1KMission cancelled by user[16;161H[1K[?12l[?25h[?25l[1;161H[1K[H###    Robi arrived at (-5, -2)    ###[2;161H[1KRobi came from direction                                        0[3;161H[1K=> Orientation of robot                                         0[4;161H[1KStart scanning[5;161H[1KAvailable paths: [-1, 1, 1, -1][6;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[7;161H[1KScanned nodes and unexplored paths: {(-5, -2): [90]}[8;161H[1K
+[1K=> Robi is asking the mothership for permission to drive        90[10;161H[1K-------------------------------------------------------------------[11;161H[1Kfinal next orientation according to the compass                 90[12;161H[1Kfinal next orientation taking robot orientation into account    90[13;161H[1KMission cancelled by user[14;161H[1K
+[1KWriting log...[16;161H[1K[?12l[?25h---[?25l[1;161H[1K[H=> Orientation of robot                                         0[2;161H[1KStart scanning[3;161H[1KAvailable paths: [-1, 1, 1, -1][4;161H[1KRobi scanned for unexplored paths and chosed a random available path to explore[5;161H[1KScanned nodes and unexplored paths: {(-5, -2): [90]}[6;161H[1K
+[1K=> Robi is asking the mothership for permission to drive        90[8;161H[1K-------------------------------------------------------------------[9;161H[1Kfinal next orientation according to the compass                 90[10;161H[1Kfinal next orientation taking robot orientation into account    90[11;161H[1KMission cancelled by user[12;161H[1K
+[1KWriting log...[14;161H[1K---[15;161H[1Krobot terminated normally. time: Mon, 02 Sep 2024 11:37:14[16;161H[1Kinput s (confirm with ENTER) to stop (anything else to run again):[C[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:38 02-Sep-24(B[m[16;68H[?12l[?25h[?25l[H=> Orientation of robot                                         0[K
+Start scanning[K
+Available paths: [-1, 1, 1, -1][K
+Robi scanned for unexplored paths and chosed a random available path to explore[K
+Scanned nodes and unexplored paths: {(-5, -2): [90]}[K
+[K
+=> Robi is asking the mothership for permission to drive        90[K
+-------------------------------------------------------------------[K
+final next orientation according to the compass                 90[K
+final next orientation taking robot orientation into account    90[K
+Mission cancelled by user[K
+[K
+Writing log...[K
+---[K
+robot terminated normally. time: Mon, 02 Sep 2024 11:37:14[K
+input s (confirm with ENTER) to stop (anything else to run again):[K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:38 02-Sep-24(B[m[16;68H[?12l[?25h[1;16r[16S[1;17r[1;1H[?25l[17d[30m[42m[robolab-s0:launcher*                                                                                                                                                         "group-201" 11:38 02-Sep-24(B[m[1;1H[?12l[?25hStarting your robot at Mon, 02 Sep 2024 11:38:28
+[1;16r[16S[?25l[1;17r[17;1H[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:38 02-Sep-24(B[m[2;1H[?12l[?25h[?25l[32m[1;162H│[39m·······································[32m[2;162H│[39m·······································[32m[3;162H│[39m·······································[32m[4;162H│[39m·······································[32m[5;162H│[39m·······································[32m[6;162H│[39m·······································[32m[7;162H│[39m·······································[32m[8;162H│[39m·······································[32m[9;162H│[39m·······································[32m[10;162H│[39m·······································[32m[11;162H│[39m·······································[32m[12;162H│[39m·······································[32m[13;162H│[39m·······································[32m[14;162H│[39m·······································[32m[15;162H│[39m·······································[32m[16;162H│[39m·····(B[m(size 161x16 from a smaller client)[1;161H[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[1K
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:38 02-Sep-24(B[m[2;1H[?12l[?25hStart mission
+Total left 3896 Total right 3744 Ticks 35
+alpha -7.30700636942675 delta x -0.2019389567593398 delta_y 4.378289982120512
+Total left 3896 Total right 3744 Ticks 35
+Total left 3896 Total right 3744 Ticks 35
+alpha -6.726114649681527 delta x -0.7682107692383855 delta_y 8.741334858084361
+Total left 3896 Total right 3744 Ticks 35
+Total left 3896 Total right 3744 Ticks 35
+alpha -4.34140127388535 delta x -1.0894050401735933 delta_y 13.129410199877038
+Total left 3896 Total right 3744 Ticks 35
+Total left 3896 Total right 3744 Ticks 35
+alpha -5.5643312101910825 delta x -1.404634073982371 delta_y 17.516387054405886
+Total left 3896 Total right 3744 Ticks 35
+Total left 3896 Total right 3744 Ticks 35[?25l[1;161H[1K[HStart mission[2;161H[1KTotal left 3896 Total right 3744 Ticks 35[3;161H[1Kalpha -7.30700636942675 delta x -0.2019389567593398 delta_y 4.378289982120512[4;161H[1KTotal left 3896 Total right 3744 Ticks 35[5;161H[1KTotal left 3896 Total right 3744 Ticks 35[6;161H[1Kalpha -6.726114649681527 delta x -0.7682107692383855 delta_y 8.741334858084361[7;161H[1KTotal left 3896 Total right 3744 Ticks 35[8;161H[1KTotal left 3896 Total right 3744 Ticks 35[9;161H[1Kalpha -4.34140127388535 delta x -1.0894050401735933 delta_y 13.129410199877038[10;161H[1KTotal left 3896 Total right 3744 Ticks 35[11;161H[1KTotal left 3896 Total right 3744 Ticks 35[12;161H[1Kalpha -5.5643312101910825 delta x -1.404634073982371 delta_y 17.516387054405886[13;161H[1KTotal left 3896 Total right 3744 Ticks 35[14;161H[1KTotal left 3896 Total right 3744 Ticks 35[15;161H[1Kalpha -10.761783439490447 delta x -2.113735439076379 delta_y 21.249081919656717[16;161H[1K[?12l[?25h[?25l[1;161H[1K[HTotal left 3896 Total right 3744 Ticks 35[2;161H[1Kalpha -6.726114649681527 delta x -0.7682107692383855 delta_y 8.741334858084361[3;161H[1KTotal left 3896 Total right 3744 Ticks 35[4;161H[1KTotal left 3896 Total right 3744 Ticks 35[5;161H[1Kalpha -4.34140127388535 delta x -1.0894050401735933 delta_y 13.129410199877038[6;161H[1KTotal left 3896 Total right 3744 Ticks 35[7;161H[1KTotal left 3896 Total right 3744 Ticks 35[8;161H[1Kalpha -5.5643312101910825 delta x -1.404634073982371 delta_y 17.516387054405886[9;161H[1KTotal left 3896 Total right 3744 Ticks 35[10;161H[1KTotal left 3896 Total right 3744 Ticks 35[11;161H[1Kalpha -10.761783439490447 delta x -2.113735439076379 delta_y 21.249081919656717[12;161H[1KTotal left 3896 Total right 3744 Ticks 35[13;161H[1KTotal left 3896 Total right 3744 Ticks 35[14;161H[1Kalpha -6.894267515923568 delta x -2.7628587846426056 delta_y 25.598960994529698[15;161H[1KTotal left 3896 Total right 3744 Ticks 35[16;161H[1K[?12l[?25h[?25l[1;161H[1K[HTotal left 3896 Total right 3744 Ticks 35[2;161H[1KTotal left 3896 Total right 3744 Ticks 35[3;161H[1Kalpha -3.5770700636942667 delta x -6.691589716787742 delta_y 60.55298962190875[4;161H[1KTotal left 3896 Total right 3744 Ticks 35[5;161H[1KTotal left 3896 Total right 3744 Ticks 35[6;161H[1Kalpha -7.092993630573248 delta x -7.182139522508676 delta_y 64.92505829842486[7;161H[1KTotal left 3896 Total right 3744 Ticks 35[8;161H[1KTotal left 3896 Total right 3744 Ticks 35[9;161H[1Kalpha -4.219108280254775 delta x -7.62123787685186 delta_y 69.30133979361669[10;161H[1KTotal left 3896 Total right 3744 Ticks 35[11;161H[1KTotal left 3896 Total right 3744 Ticks 35[12;161H[1Kalpha -4.112101910828024 delta x -7.89560379888562 delta_y 73.692521276674[13;161H[1KTotal left 3896 Total right 3744 Ticks 35[14;161H[1KTotal left 3896 Total right 3744 Ticks 35[15;161H[1KMission cancelled by user[16;161H[1K[?12l[?25h[?25l[1;161H[1K[Halpha -3.5770700636942667 delta x -6.691589716787742 delta_y 60.55298962190875[2;161H[1KTotal left 3896 Total right 3744 Ticks 35[3;161H[1KTotal left 3896 Total right 3744 Ticks 35[4;161H[1Kalpha -7.092993630573248 delta x -7.182139522508676 delta_y 64.92505829842486[5;161H[1KTotal left 3896 Total right 3744 Ticks 35[6;161H[1KTotal left 3896 Total right 3744 Ticks 35[7;161H[1Kalpha -4.219108280254775 delta x -7.62123787685186 delta_y 69.30133979361669[8;161H[1KTotal left 3896 Total right 3744 Ticks 35[9;161H[1KTotal left 3896 Total right 3744 Ticks 35[10;161H[1Kalpha -4.112101910828024 delta x -7.89560379888562 delta_y 73.692521276674[11;161H[1KTotal left 3896 Total right 3744 Ticks 35[12;161H[1KTotal left 3896 Total right 3744 Ticks 35[13;161H[1KMission cancelled by user[14;161H[1K
+[1KWriting log...[16;161H[1K[?12l[?25h[?25l
+[30m[42m[robolab-s0:python3*                                                                                                                                                          "group-201" 11:39 02-Sep-24(B[m[16;1H[?12l[?25h---[?25l[1;161H[1K[HTotal left 3896 Total right 3744 Ticks 35[2;161H[1Kalpha -7.092993630573248 delta x -7.182139522508676 delta_y 64.92505829842486[3;161H[1KTotal left 3896 Total right 3744 Ticks 35[4;161H[1KTotal left 3896 Total right 3744 Ticks 35[5;161H[1Kalpha -4.219108280254775 delta x -7.62123787685186 delta_y 69.30133979361669[6;161H[1KTotal left 3896 Total right 3744 Ticks 35[7;161H[1KTotal left 3896 Total right 3744 Ticks 35[8;161H[1Kalpha -4.112101910828024 delta x -7.89560379888562 delta_y 73.692521276674[9;161H[1KTotal left 3896 Total right 3744 Ticks 35[10;161H[1KTotal left 3896 Total right 3744 Ticks 35[11;161H[1KMission cancelled by user[12;161H[1K
+[1KWriting log...[14;161H[1K---[15;161H[1Krobot terminated normally. time: Mon, 02 Sep 2024 11:39:08[16;161H[1Kinput s (confirm with ENTER) to stop (anything else to run again):[C[?12l[?25h[1;17r(B[m[?1l>[H[2J]112[?12l[?25h[?1000l[?1002l[?1006l[?1005l[?1049l[23;0;0t[detached (from session robolab-startup)]
+Starting deploy at 02.09.2024, 11:26:53
+If you need to change the IP address or your underlying OS, please run
+	./deploy.py -c
+Copying new files...
+Done.
+Executing code by running main.run()...
+This will open a tmux session...
+Detach by pressing CTRL + B and then D
+Done.
