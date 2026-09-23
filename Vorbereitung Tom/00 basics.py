@@ -1,1 +1,0 @@
-print ("Python was created by Guide van Rossum in 1991. It's name was inspired by a Comedy Group. The interpreter works after REPL (Read, Execute, Print, Loop) and executes each line after another.")
